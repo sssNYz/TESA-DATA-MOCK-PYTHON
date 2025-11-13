@@ -8,7 +8,7 @@ This tool makes fake drone data. It sends messages about drones flying around. Y
 
 ## How to install
 
-1. Install Python 3.7 or newer
+1. Install Python 3.7 or newer  
 2. Install required packages:
 ```bash
 pip install paho-mqtt
